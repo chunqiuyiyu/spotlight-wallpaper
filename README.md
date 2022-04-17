@@ -15,7 +15,7 @@
 
 ## Download
 
-You can get the latest version [here](https://github.com/chunqiuyiyu/spotlight-wallpaper/latest).
+You can get the latest version [here](https://github.com/chunqiuyiyu/spotlight-wallpaper/releases).
 
 ## License
 
